@@ -6,8 +6,8 @@ from telethon.tl.types import MessageMediaWebPage
 from collections import deque
 from datetime import datetime
 
-API_ID = 23697291  # Replace with your API ID
-API_HASH = "b3a10e33ef507e864ed7018df0495ca8"  # Replace with your API hash
+API_ID = 28451755  # Replace with your API ID
+API_HASH = "c888900d408dcd71e8bf31f5aa15ae0e"  # Replace with your API hash
 SESSION_FILE = "userbot_session"
 client = TelegramClient(SESSION_FILE, API_ID, API_HASH)
 
